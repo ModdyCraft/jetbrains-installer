@@ -63,7 +63,7 @@ sudo ./jetbrains-installer
 
 ## 📜 License
 
-This project is distributed under the open-source **MIT License**. See the [`LICENSE`](https://www.google.com/search?q=./LICENSE) file for more details.
+This project is distributed under the open-source **MIT License**. See the [`LICENSE`](./LICENSE) file for more details.
 
 ---
 
